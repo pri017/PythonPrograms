@@ -9,3 +9,7 @@ def is_prime(n):
 if __name__ == "__main__":
     num = int(input("Enter number: "))
     print(is_prime(num))
+
+
+
+
