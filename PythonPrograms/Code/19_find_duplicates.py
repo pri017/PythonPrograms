@@ -11,3 +11,7 @@ def find_duplicates(lst):
 if __name__ == "__main__":
     items = input("Enter items: ").split()
     print(find_duplicates(items))
+
+
+
+
