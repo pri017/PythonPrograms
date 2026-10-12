@@ -4,3 +4,7 @@ def sum_of_digits(n):
 if __name__ == "__main__":
     num = int(input("Enter number: "))
     print(sum_of_digits(num))
+
+
+
+
