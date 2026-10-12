@@ -14,3 +14,5 @@ if __name__ == "__main__":
     text = input("Enter string: ")
     v, c = count_vowels_consonants(text)
     print(f"Vowels: {v}, Consonants: {c}")
+
+
