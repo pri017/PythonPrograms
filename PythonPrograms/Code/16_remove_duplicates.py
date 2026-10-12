@@ -10,3 +10,6 @@ def remove_duplicates(lst):
 if __name__ == "__main__":
     items = input("Enter items: ").split()
     print(remove_duplicates(items))
+
+
+
