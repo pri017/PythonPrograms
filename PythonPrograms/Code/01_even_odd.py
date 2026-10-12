@@ -7,3 +7,4 @@ def check_even_odd(n: int) -> str:
 if __name__ == "__main__":
     num = int(input("Enter a number: "))
     print(check_even_odd(num))
+    
