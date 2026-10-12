@@ -7,3 +7,8 @@ def reverse_string(s):
 if __name__ == "__main__":
     text = input("Enter string: ")
     print(reverse_string(text))
+
+
+
+
+
