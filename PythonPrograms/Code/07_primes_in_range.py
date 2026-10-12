@@ -12,3 +12,8 @@ def primes_in_range(start, end):
 if __name__ == "__main__":
     s, e = map(int, input("Enter start and end: ").split())
     print(primes_in_range(s, e))
+
+
+
+
+
