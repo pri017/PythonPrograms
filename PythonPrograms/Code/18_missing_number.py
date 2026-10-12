@@ -7,3 +7,7 @@ def find_missing_number(lst):
 if __name__ == "__main__":
     items = list(map(int, input("Enter numbers: ").split()))
     print(find_missing_number(items))
+
+
+
+
