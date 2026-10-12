@@ -7,3 +7,6 @@ def char_frequency(s):
 if __name__ == "__main__":
     text = input("Enter string: ")
     print(char_frequency(text))
+
+
+
