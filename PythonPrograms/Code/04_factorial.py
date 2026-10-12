@@ -9,3 +9,5 @@ def factorial(n):
 if __name__ == "__main__":
     num = int(input("Enter number: "))
     print("Factorial:", factorial(num))
+
+
