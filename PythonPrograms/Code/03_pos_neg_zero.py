@@ -8,3 +8,7 @@ def check_number(n):
 if __name__ == "__main__":
     num = float(input("Enter number: "))
     print(check_number(num))
+
+
+
+
