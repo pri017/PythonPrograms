@@ -6,3 +6,8 @@ def reverse_number(n):
 if __name__ == "__main__":
     num = int(input("Enter number: "))
     print(reverse_number(num))
+
+
+
+
+
