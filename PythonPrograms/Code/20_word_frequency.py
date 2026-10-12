@@ -11,3 +11,6 @@ def word_frequency(sentence):
 if __name__ == "__main__":
     sentence = input("Enter sentence: ")
     print(word_frequency(sentence))
+
+
+
